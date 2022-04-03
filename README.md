@@ -31,6 +31,6 @@ Presentation slides are in the folder seminar_presentations
 |-------------------|------------------------------------------|------------------------|------------------|
 | Poster            | Not (yet) another coal story             | [IAMC 2018](https://www.iamconsortium.org/event/eleventh-annual-meeting-of-the-iamc-2018/)              | 13 November 2018 |
 | Oral presentation | Employment effects in energy transitions | [IAMC 2020](https://www.iamconsortium.org/event/thirteenth-annual-meeting-of-the-iamc-2020/)              | 1 December 2020  |
-| Expert panel      |                                          |                        |                  |
+| Expert panel      | Climate Action and Renewable Energy in context of a Green Recovery  |  Africa- EU Climate Partnership               | 28 Sepember 2020                 |
 | Presentation      | Preventing stranded assets and empowering renewables    | [CD-LINKS Summer school](https://www.cd-links.org/?p=1816) |    July 2019              |
-| Project meeting   |                                          |                        |                  |
+| Presentation  |  Preparation and selection of global scenarios in the context of the global stocktake   |    [COMMIT project meeting](https://themasites.pbl.nl/commit/)                    |    12-14 September 2018              |
