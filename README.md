@@ -11,7 +11,7 @@ Contains all output - published papers, presentations, code during the course of
 [Barriers to power sector decarbonisation in India](https://github.com/amnmalik/PhDThesis) submitted 5 November 2021 to the Technical University of Berlin
 
 ## PhD Defense 
-[Defense Presentation](https://github.com/amnmalik/PhdSummary) Held on 29 March 2022 at Faculty III, Process Sciences, at the Technical University of Berlin. Contains code, figures, and slides. 
+[Defense Presentation](https://github.com/amnmalik/PhdDefense) Held on 29 March 2022 at Faculty III, Process Sciences, at the Technical University of Berlin. Contains code, figures, and slides. 
 
 ## [Seminars](https://github.com/amnmalik/PhdSummary/tree/master/seminar_presentations)
 The doctoral program at the Potsdam Institute for Climate Impact Research requires doctoral candidates to present a seminar every six months at their respective departments. The purpose is to update everyone on the progress of the PhD and gain inputs and ideas from other colleagues.
