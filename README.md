@@ -15,7 +15,7 @@ Contains all output - published papers, presentations, code during the course of
 
 ## [Internal Seminars](https://github.com/amnmalik/PhdSummary/tree/master/seminar_presentations)
 The doctoral program at the Potsdam Institute for Climate Impact Research requires doctoral candidates to present a seminar every six months at their respective departments. The purpose is to update everyone on the progress of the PhD and gain inputs and ideas from other colleagues.
-Presentation slides are in the folder seminar_presentations
+Presentation slides are in the folder [seminar_presentations](https://github.com/amnmalik/PhdSummary/tree/master/seminar_presentations)
 
 | **Seminar #** | **Title**                                                                        | **Date**          |  
 |---------------|----------------------------------------------------------------------------------|-------------------|
