@@ -19,7 +19,7 @@ Presentation slides are in the folder [seminar_presentations](https://github.com
 
 | **Seminar #** | **Title**                                                                        | **Date**          |  
 |---------------|----------------------------------------------------------------------------------|-------------------|
-| 1             | Post-Paris Policy Analysis in REMIND                                             | 7 May 2018        |  
+| 1             | [Post-Paris Policy Analysis in REMIND](seminar_presentations/2018_11_27.pdf)     | 7 May 2018        |  
 | 2             | Techno-economic and political economy lock-ins in IAMs                           | 27 November 2018  |   
 | 3             | Not Another Coal Story                                                           | 15 May 2019       |   
 | 4             | "Visible and Invisible" Understanding energy transitions through carbon lock-ins | 7 November 2019   | 
