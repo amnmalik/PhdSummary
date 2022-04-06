@@ -15,7 +15,6 @@ Contains all output - published papers, presentations, code during the course of
 
 ## [Internal Seminars](https://github.com/amnmalik/PhdSummary/tree/master/seminar_presentations)
 The doctoral program at the Potsdam Institute for Climate Impact Research requires doctoral candidates to present a seminar every six months at their respective departments. The purpose is to update everyone on the progress of the PhD and gain inputs and ideas from other colleagues.
-Presentation slides are in the folder [seminar_presentations](https://github.com/amnmalik/PhdSummary/tree/master/seminar_presentations)
 
 | **Seminar #** | **Title**                                                                        | **Date**          |  
 |---------------|----------------------------------------------------------------------------------|-------------------|
@@ -29,8 +28,8 @@ Presentation slides are in the folder [seminar_presentations](https://github.com
 ## [Posters, Presentations, and talks (External)](https://github.com/amnmalik/PhdSummary/tree/master/posters_talks_presentations)
 | Category          | Title                                    | Event                  | Date             |
 |-------------------|------------------------------------------|------------------------|------------------|
-| Poster            | Not (yet) another coal story             | [IAMC 2018](https://www.iamconsortium.org/event/eleventh-annual-meeting-of-the-iamc-2018/)              | 13 November 2018 |
-| Oral presentation | Employment effects in energy transitions | [IAMC 2020](https://www.iamconsortium.org/event/thirteenth-annual-meeting-of-the-iamc-2020/)              | 1 December 2020  |
-| Expert panel      | Climate Action and Renewable Energy in context of a Green Recovery  |  Africa- EU Climate Partnership               | 28 Sepember 2020                 |
-| Presentation      | Preventing stranded assets and empowering renewables    | [CD-LINKS Summer school](https://www.cd-links.org/?p=1816) |    July 2019              |
+| Poster            | [Not (yet) another coal story](posters_talks_presentations/Poster_IAMC__en_V8.pdf)  | [IAMC 2018](https://www.iamconsortium.org/event/eleventh-annual-meeting-of-the-iamc-2018/)      | 13 November 2018 |
+| Oral presentation | [Employment effects in energy transitions](posters_talks_presentations/IAMC-final_malik_aman_2020.pdf) | [IAMC 2020](https://www.iamconsortium.org/event/thirteenth-annual-meeting-of-the-iamc-2020/)      | 1 December 2020  |
+| Expert panel      | [Climate Action and Renewable Energy in context of a Green Recovery](posters_talks_presentations/malik_aman_pik_2020_09_28.pdf)  |  Africa- EU Climate Partnership               | 28 Sepember 2020  |
+| Presentation      |[ Preventing stranded assets and empowering renewables](posters_talks_presentations/Malik_Aman.pdf ) | [CD-LINKS Summer school](https://www.cd-links.org/?p=1816) |    July 2019              |
 | Presentation  |  Preparation and selection of global scenarios in the context of the global stocktake   |    [COMMIT project meeting](https://themasites.pbl.nl/commit/)                    |    12-14 September 2018              |
