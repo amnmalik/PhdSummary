@@ -20,11 +20,11 @@ Presentation slides are in the folder [seminar_presentations](https://github.com
 | **Seminar #** | **Title**                                                                        | **Date**          |  
 |---------------|----------------------------------------------------------------------------------|-------------------|
 | 1             | [Post-Paris Policy Analysis in REMIND](seminar_presentations/2018_11_27.pdf)     | 7 May 2018        |  
-| 2             | Techno-economic and political economy lock-ins in IAMs                           | 27 November 2018  |   
-| 3             | Not Another Coal Story                                                           | 15 May 2019       |   
-| 4             | "Visible and Invisible" Understanding energy transitions through carbon lock-ins | 7 November 2019   | 
-| 5             | Employment effects of energy transitions                                         | 24 September 2020 |   
-| 6             | Employment considerations in energy transitions                                  | 27 April 2021     |   
+| 2             | [Techno-economic and political economy lock-ins in IAMs](seminar_presentations/Malik_Aman_2018_Seminar_red.pdf)| 27 November 2018  |   
+| 3             | [Not Another Coal Story](seminar_presentations/Malik_Aman_2019_05_16.pdf)        | 15 May 2019       |   
+| 4             | ["Visible and Invisible" Understanding energy transitions through carbon lock-ins](seminar_presentations/malik_aman_nov2019_v2.pdf) | 7 November 2019   | 
+| 5             | [Employment effects of energy transitions](seminar_presentations/malik_aman_september_2020_split.pdf) | 24 September 2020 |   
+| 6             | [Employment considerations in energy transitions](seminar_presentations/Employment_considerations_energy_transition_2021.pdf) | 27 April 2021     |   
 
 ## [Posters, Presentations, and talks (External)](https://github.com/amnmalik/PhdSummary/tree/master/posters_talks_presentations)
 | Category          | Title                                    | Event                  | Date             |
